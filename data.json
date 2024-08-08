@@ -1,0 +1,14 @@
+{
+
+    "person":{
+        "name":"John Cena" ,
+        "age":20,
+        "isMarried":true
+    },
+    "products":[{
+        "name":"Product1",
+        "price":10.99,
+        "description":"This is product 1",
+        "instock":true
+    }]
+}
